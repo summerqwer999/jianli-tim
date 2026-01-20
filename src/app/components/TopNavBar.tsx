@@ -32,7 +32,7 @@ export const TopNavBar = () => {
           className="flex items-center gap-2 text-sm font-medium"
         >
           {[
-            ["/resume-builder", "生成器"],
+            ["/resume-builder", "我的主页"],
           ].map(([href, text]) => (
             <Link
               key={text}
