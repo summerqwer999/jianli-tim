@@ -22,7 +22,7 @@ export const TopNavBar = () => {
           <span className="sr-only">OpenResume</span>
           <Image
             src={logoSrc}
-            alt="OpenResume Logo"
+            alt="在线简历生成器 Logo"
             className="h-8 w-full"
             priority
           />
